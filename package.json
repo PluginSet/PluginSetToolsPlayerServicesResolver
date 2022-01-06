@@ -1,0 +1,18 @@
+{
+  "name": "com.pluginset.tool.playerservicesresolver",
+  "displayName": "PluginSet Tool PlayerServicesResolver",
+  "version": "0.0.1",
+  "unity": "2019.4",
+  "description": "A build tool of google.",
+  "keywords": [
+    "pluginset",
+    "PlayerServicesResolver"
+  ],
+  "dependencies": {
+    "com.pluginset.core": "0.0.1"
+  },
+  "author": {
+    "name": "LyneXiao",
+    "email": "lixonxs@icloud.com"
+  }
+}
