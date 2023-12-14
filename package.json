@@ -1,0 +1,17 @@
+{
+  "name": "com.pluginset.tools.psr",
+  "displayName": "PluginSet Tools: Player Services Resolver",
+  "version": "1.2.172",
+  "unity": "2018.4",
+  "description": "Platform build tools in pluginset.",
+  "keywords": [
+    "pluginset",
+    "PlayerServicesResolver"
+  ],
+  "dependencies": {
+  },
+  "author": {
+    "name": "LyneXiao",
+    "email": "lixonxs@icloud.com"
+  }
+}
