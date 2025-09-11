@@ -1,15 +1,14 @@
 {
-  "name": "com.pluginset.tool.playerservicesresolver",
-  "displayName": "PluginSet Tool PlayerServicesResolver",
-  "version": "0.0.1",
-  "unity": "2019.4",
-  "description": "A build tool of google.",
+  "name": "com.pluginset.tools.psr",
+  "displayName": "PluginSet Tools: Player Services Resolver",
+  "version": "1.2.172",
+  "unity": "2018.4",
+  "description": "Platform build tools in pluginset.",
   "keywords": [
     "pluginset",
     "PlayerServicesResolver"
   ],
   "dependencies": {
-    "com.pluginset.core": "0.0.1"
   },
   "author": {
     "name": "LyneXiao",
