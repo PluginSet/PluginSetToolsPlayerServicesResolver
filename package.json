@@ -1,7 +1,7 @@
 {
   "name": "com.pluginset.tools.psr",
   "displayName": "PluginSet Tools: Player Services Resolver",
-  "version": "1.2.172",
+  "version": "1.2.187",
   "unity": "2018.4",
   "description": "Platform build tools in pluginset.",
   "keywords": [
